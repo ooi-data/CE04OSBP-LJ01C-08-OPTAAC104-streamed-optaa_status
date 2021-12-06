@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSBP-LJ01C-08-OPTAAC104-streamed-optaa_status
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Status Data<br>
+Instrument Group Code: OPTAA<br>
