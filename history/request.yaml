@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE04OSBP-LJ01C-08-OPTAAC104-streamed-optaa_status
-last_request: '2021-12-21T23:12:58.798194Z'
+last_request: '2022-01-01T01:26:58.571119Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSBP-LJ01C-08-OPTAAC104-streamed-optaa_status/main/history/response.json
 status: discontinued
